@@ -1,3 +1,0 @@
-#!/bin/bash
-
-echo “c.ScilabKernel.plot_settings = dict(format='svg')” > ~/.jupyter/scilab_kernel_config.py

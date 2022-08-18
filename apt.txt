@@ -1,5 +1,6 @@
-#apt-utils doesn't install it for some reason
-#gnuplot
-#ghostscript
-scilab
+octave
+octave-symbolic
+octave-miscellaneous
+gnuplot
+ghostscript
 
