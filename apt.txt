@@ -1,5 +1,4 @@
 apt-utils
 gnuplot
 ghostscript
-qt5-default
 
