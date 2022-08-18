@@ -1,4 +1,4 @@
-apt-utils
+#apt-utils doesn't install it for some reason
 #gnuplot
 #ghostscript
 scilab

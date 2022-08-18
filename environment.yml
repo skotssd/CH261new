@@ -1,2 +1,10 @@
+name: example-environment
+channels:
+  - conda-forge
 dependencies:
-- scilab_kernel
+  - python
+  - numpy
+  - pip
+  - pip:
+    - matplotlib
+    - scilabl_kernel
