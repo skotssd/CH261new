@@ -1,4 +1,4 @@
 gnuplot
 ghostscript
-qt
+qt5-default
 
