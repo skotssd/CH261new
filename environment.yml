@@ -1,4 +1,4 @@
 dependencies:
 - octave_kernel
 - octave
-- oc2py
+- oct2py
