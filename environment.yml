@@ -1,4 +1,2 @@
 dependencies:
-- octave_kernel
-- octave
-- oct2py
+- scilab_kernel

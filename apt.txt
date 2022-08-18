@@ -1,4 +1,5 @@
 apt-utils
-gnuplot
-ghostscript
+#gnuplot
+#ghostscript
+scilab
 
